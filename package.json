@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bower": "^1.7.9",
     "browser-sync": "2.17.0",
     "pscid": "1.11.0",
     "pulp": "9.0.1",
